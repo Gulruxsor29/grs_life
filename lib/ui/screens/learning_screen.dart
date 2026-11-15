@@ -134,7 +134,7 @@ class _CourseCard extends StatelessWidget {
                 ),
                 const SizedBox(height: 4),
                 Text(
-                  '$done / $total ${loc.t('learning_lessons').toLowerCase()} \u00b7 $minutes ${loc.t('minutes_suffix')}',
+                  '$done / $total ${loc.t('learning_lessons').toLowerCase()} · $minutes ${loc.t('minutes_suffix')}',
                   style: const TextStyle(fontSize: 11.5, color: AppColors.textSecondary),
                 ),
                 const SizedBox(height: 10),
