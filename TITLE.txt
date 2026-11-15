@@ -1,1 +1,6 @@
-GRS LIFE — General Resolution Source
+Bu fayl faqat GitHub ulanishini tekshirish uchun ishlatilgan edi.
+Repo tozaligi uchun uni GitHub interfeysida o'chirib tashlashingiz mumkin:
+shu faylni oching -> yuqori o'ng burchakdagi ... -> Delete file.
+
+(This file was only used to verify the GitHub connection.
+You can safely delete it via the GitHub web interface.)
